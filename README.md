@@ -82,8 +82,17 @@ void clockwise(int speed)
 ### OUTPUT
 ### CIRCUIT DIAGRAM:
 
+![198203922-f381cf5e-00b9-431e-bcac-838a0f3ef79c](https://user-images.githubusercontent.com/93427186/203054988-40df4bf0-7004-449b-857c-81c5a5cf7c0b.png)
+### READINGS:
+### CLOCKWISE:
+![198203998-7d487364-1e9f-494c-99e5-89cb03d4bf9f](https://user-images.githubusercontent.com/93427186/203055078-a5cd1a88-1a48-4ee3-9c06-0eaa63e77d08.png)
+### GRAPH:
+![198204094-7181df43-9f38-4ebe-9579-68011d3fbabf](https://user-images.githubusercontent.com/93427186/203055166-d0326989-fb6f-4af6-a0b5-c339de9f321f.png)
+### COUNTER CLOCKWISE:
+![198204205-e0bac79f-2342-4bab-890a-5b36247a7660](https://user-images.githubusercontent.com/93427186/203055192-8a25f4e8-6ee0-4bac-bf9d-c361cd88e659.png)
+### GRAPH:
+![198204255-74236a89-cea5-4b56-9b30-d8c31981d259](https://user-images.githubusercontent.com/93427186/203055266-81edb58a-d997-4f03-be99-e6be14f05aeb.png)
 
-### GRAPH AND TABULATION 
 
 
 
